@@ -1,1 +1,9 @@
-
+ID: 1.
+Summary: The 'SAVE DATA' button is smaller than the others.
+Environment: Huawei P30 lite, Android 10, 10.0.0.560(C461E6R1P1) GPU Turbo, Модель: MAR-LX1B, Версия EMUI: 10.0.0.
+STR: Open the App.
+Actual result: The 'SAVE DATA' button is smaller than the others.
+Expected result: The application buttons have one view.
+Priority: Low.
+Severity: Trivial.
+Attachment: https://drive.google.com/file/d/1ehl6btawxi2NbNtwKYwE4VhvKWUaWL_M/view?usp=sharing.
